@@ -1,0 +1,12 @@
+../Core/Src/ds3231_i2c.c:9:16:BCDToDec	1
+../Core/Src/ds3231_i2c.c:14:16:DecToBCD	1
+../Core/Src/ds3231_i2c.c:19:6:DS3231_Init	1
+../Core/Src/ds3231_i2c.c:24:6:DS3231_DeInit	1
+../Core/Src/ds3231_i2c.c:29:19:DS3231_GetTime	2
+../Core/Src/ds3231_i2c.c:52:19:DS3231_SetTime	1
+../Core/Src/ds3231_i2c.c:72:19:DS3231_SetAlarm	7
+../Core/Src/ds3231_i2c.c:124:19:DS3231_GetAlarm	26
+../Core/Src/ds3231_i2c.c:168:6:DS3231_EnableAlarm	1
+../Core/Src/ds3231_i2c.c:182:6:DS3231_DisableAlarm	1
+../Core/Src/ds3231_i2c.c:196:6:DS3231_ClearAlarmFlag	1
+../Core/Src/ds3231_i2c.c:209:9:DS3231_GetAlarmFlag	2

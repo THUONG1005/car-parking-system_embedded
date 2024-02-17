@@ -1,0 +1,7 @@
+Bản tin nhận:
+- Không tìm thấy thẻ: NOTFOUND
+- Bản tin thanh toán: M23:50:30:99999999E (gồm thời gian vào, giá tiền)
+- Bản tin khi xe vào: IN:A1:05 (Trụ xe A1, vị trí 05)
+Bản tin truyền:
+- Xe vào: IN:03aff8adf9 (IN + mã số thẻ)
+- Xe ra: OUT:03aff8adf9 (OUT + mã số thẻ)

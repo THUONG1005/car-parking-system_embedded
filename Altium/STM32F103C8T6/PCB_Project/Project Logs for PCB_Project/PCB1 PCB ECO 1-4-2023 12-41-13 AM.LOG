@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PA12 Pin=R3-1
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Pin From Net: NetName=PA12 Pin=R5-2
+Removed Pin From Net: NetName=PA11 Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=USB1
+Added Member To Class: ClassName=Sheet1 Member=Component JDC Jac DC

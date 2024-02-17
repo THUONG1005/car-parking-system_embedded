@@ -1,0 +1,25 @@
+Chế độ xe vào:
+==> Check thẻ
+==> gửi id thẻ lên server kiểm tra
+TH1: Không tìm thấy thẻ, bản tin nhận được là NOT FOUND ==> hiển thị không tìm được thẻ
+TH2: Tìm được ==> cho xe vào, bản tin nhận được gồm vị trí của xe (server chọn ngẫu
+ nhiên trong các vị trí còn trống)
+(trên hệ thống bắt đầu tính tiền theo loại thẻ (khách lẻ, khách thường xuyên)
+TH3: Không nhận được phản hồi từ server ==> TIME OUT
+Chế độ xe ra:
+==> Check thẻ
+==> gửi id thẻ lên server kiểm tra
+TH1: Không tìm thấy thẻ, bản tin nhận được là NOT FOUND ==> hiển thị không tìm được thẻ
+TH2: Server tìm được ==> Tính tiền ==> server gửi bản tin gồm thời gian xe vào + giá tiền 
+cần thanh toán
+TH3: Không nhận được phản hồi từ server ==> TIME OUT ==> Yêu cầu check lại thẻ
+==> nhân viên bấm nút để mở thanh chắn cho xe ra
+
+
+Bản tin nhận:
+- Không tìm thấy thẻ: NOTFOUND
+- Bản tin thanh toán: M23:50:30:99999999E (gồm thời gian vào, giá tiền)
+- Bản tin khi xe vào: IN:A1:05 (Trụ xe A1, vị trí 05)
+Bản tin truyền:
+- Xe vào: IN:03aff8adf9 (IN + mã số thẻ)
+- Xe ra: OUT:03aff8adf9 (OUT + mã số thẻ)

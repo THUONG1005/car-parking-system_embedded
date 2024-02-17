@@ -1,0 +1,11 @@
+Added Component: Designator=Q(XT 306)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aigner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MC-306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Aigner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MC-306/Aigner/view-part/342220/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC15 Pin=Q-1
+Added Pin To Net: NetName=PC14 Pin=Q-4
+Added Member To Class: ClassName=Sheet1 Member=Component Q MC-306

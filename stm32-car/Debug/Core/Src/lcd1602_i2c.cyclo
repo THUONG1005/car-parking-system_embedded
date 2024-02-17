@@ -1,0 +1,6 @@
+../Core/Src/lcd1602_i2c.c:17:26:LCD1602_SendByte	1
+../Core/Src/lcd1602_i2c.c:39:6:LCD1602_Init	1
+../Core/Src/lcd1602_i2c.c:57:6:LCD1602_SetFunction	3
+../Core/Src/lcd1602_i2c.c:75:6:LCD1602_SetCursor	5
+../Core/Src/lcd1602_i2c.c:103:19:LCD1602_SendChar	1
+../Core/Src/lcd1602_i2c.c:108:19:LCD1602_SendString	3

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC14 Pin=Y1-1
+Removed Pin From Net: NetName=PC15 Pin=Y1-4
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Added Member To Class: ClassName=Sheet1 Member=Component U STM32F103C8T6
+Added Room: Name=Sheet1

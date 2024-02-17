@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=R1-1
+Removed Pin From Net: NetName=OSC_IN Pin=R1-2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Added Component: Designator=C5(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603MRX7R9BB272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603MRX7R9BB272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603MRX7R9BB272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603MRX7R9BB272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R(RESC1608X50N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2176051-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = ".068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2176051-4/TE%20Connectivity/view-part/2213257/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC14 Pin=C3-1
+Added Pin To Net: NetName=PC15 Pin=C4-1
+Added Pin To Net: NetName=VCC3V3 Pin=C5-1
+Added Pin To Net: NetName=NetU_8 Pin=C5-2
+Added Pin To Net: NetName=VCC3V3 Pin=C6-1
+Added Pin To Net: NetName=NetU_8 Pin=C6-2
+Added Pin To Net: NetName=VCC3V3 Pin=C7-1
+Added Pin To Net: NetName=NetU_8 Pin=C7-2
+Added Pin To Net: NetName=VCC3V3 Pin=C8-1
+Added Pin To Net: NetName=NetU_8 Pin=C8-2
+Added Pin To Net: NetName=NetU_8 Pin=P3-19
+Added Pin To Net: NetName=NetU_8 Pin=P3-20
+Added Pin To Net: NetName=NetU_8 Pin=P4-2
+Added Pin To Net: NetName=OSC_OUT Pin=R-1
+Added Pin To Net: NetName=OSC_IN Pin=R-2
+Change Net Name : Old Net Name=NetU_8 New Net Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component C5 104,0603
+Added Member To Class: ClassName=Sheet1 Member=Component C6 104,0603
+Added Member To Class: ClassName=Sheet1 Member=Component C7 104,0603
+Added Member To Class: ClassName=Sheet1 Member=Component C8 104,0603
+Added Member To Class: ClassName=Sheet1 Member=Component R 1M
+Added Room: Name=Sheet1
